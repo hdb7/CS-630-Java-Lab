@@ -1,7 +1,10 @@
+//Q3. Given an integer, display only the prime digit from that integer
+//Hamjak
+//27/03/22
+
 import java.util.ArrayList;
 import java.util.Collections;
 
-//Q3. Given an integer, display only the prime digit from that integer
 public class DisplayPrime {
     static boolean isPrime(int n){
         boolean result = true;
